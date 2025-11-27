@@ -1,1 +1,19 @@
+Title:
 
+Energy Consumption Optimization Advisor
+
+Problem Statement:
+
+Energy consumers, such as households or small businesses, often lack actionable insights on how to optimize their energy usage to reduce costs and environmental impact. Providing personalized, Al-generated recommendations based on consumption data can empower users to make smarter decisions. The challenge is to implement this within a limited timeframe with essential features only.
+
+Data Requirements:
+
+Sample energy consumption datasets (CSV or JSON) or user-provided data. No external API required but optional integration with energy pricing APIs if time permits.
+
+(Feel free to generate synthetic data as well from the provided access)
+
+Expected Output:
+
+A functional MVP that accepts energy consumption input, provides Al-generated optimization advice, and visualizes data trends. The Ul will be minimal but interactive. Documentation will cover user instructions and technical setup.
+
+Be creative to go beyond as you solve the above needs
